@@ -6,6 +6,6 @@
 - Zhen Peng Li
 - Rafael Peguero
 
-### Presentación
+## Preview
 
-[![Presentación software Mango SLR](https://img.youtube.com/vi/tw6RCLD3xQA/0.jpg)]()
+### Estructura de base de datos
