@@ -1,1 +1,7 @@
-"# Proyecto Ingenier°a de Software - Enero de 2022" 
+### Proyecto Ingenier√≠a de Software - Enero de 2022
+
+## Elaborado por
+
+Audric Rosario
+Zhen Peng Li
+Rafael Peguero
