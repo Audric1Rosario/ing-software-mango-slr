@@ -1,0 +1,1 @@
+Version preliminar, login listo, dashboard (a modificar), diseños preparados. 
