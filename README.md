@@ -1,4 +1,4 @@
-# Mango SLR Farmacia en línea - Proyecto Ingeniería de Software - Enero de 2022
+# Mango SLR Farmacia en línea - Proyecto Ingeniería de Software - Marzo de 2021
 
 ## Elaborado por
 
