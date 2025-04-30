@@ -1,37 +1,42 @@
-# Mango SLR Farmacia en línea - Proyecto Ingeniería de Software - Enero de 2022
+# Pharmaceutical Sales Website - Software Engineering Project - January 2022
 
-## Elaborado por
+## Made by
 
 - Audric Rosario
 - Zhen Peng Li
 - Rafael Peguero
 
-### Utiliza:
+### This README is available in
 
-- Backend Springboot
-- Base de datos Microsoft SQL Server
-- Llamadas a API de prueba de PayPal (versión deprecada - 2022)
+- [English](README.md)
+- [Spanish](README-ES.md)
 
-### Estructura de base de datos
+### Features
 
-![Estructura de datos](readme/database-structure.png)
+- Springboot backend
+- Microsoft SQL Server database
+- PayPal test API calls (deprecated version - 2022)
 
-### Página principal
+### Database Structure
 
-![Página principal](readme/main-page.png)
+![Data Structure](readme/database-structure.png)
 
-### Tienda
+### Home Page
 
-![Tienda](readme/tienda.png)
+![Home Page](readme/main-page.png)
 
-### Carrito de compras
+### Shop
 
-![Carrito de compras](readme/carrito-compras.png)
+![Shop](readme/tienda.png)
 
-### Facturación
+### Shopping Cart
 
-![Facturación](readme/control.png)
+![Shopping Cart](readme/carrito-compras.png)
 
-### Pago de factura
+### Billing
 
-![Pago de factura](readme/facturacion.png)
+![Billing](readme/control.png)
+
+### Bill Payment
+
+![Bill Payment](readme/facturacion.png)
