@@ -1,6 +1,6 @@
 # Mango SLR Farmacia en línea - Proyecto Ingeniería de Software - Marzo de 2021
 
-## Elaborado por
+## Hecho por
 
 - Audric Rosario
 - Zhen Peng Li
@@ -11,7 +11,7 @@
 - [Español](README-ES.md)
 - [Inglés](README.md)
 
-### Utiliza:
+### Características:
 
 - Backend Springboot
 - Base de datos Microsoft SQL Server
